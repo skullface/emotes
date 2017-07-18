@@ -69,7 +69,10 @@
 ![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/boom.gif)
 
 ## People
-| ![daddy-elba.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png) | ![daddy-goldblum.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png) 
+
+| People |
+| --- | --- | --- | --- |
+| ![daddy-elba.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png) | ![daddy-goldblum.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png)
 | ![person__kanye.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png) | ![person__krying.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png) |
 | :daddy-elba: | :daddy-goldblum: | :kanye: | :krying: |
 
