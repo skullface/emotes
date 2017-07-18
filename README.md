@@ -119,38 +119,10 @@
 </table>
 
 ### People
-<table>
-	<tr>
-		<td><img height="32" width="32" alt="daddy-elba.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"></td>
-		<td><img height="32" width="32" alt="daddy-goldblum.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"></td>
-		<td><img height="32" width="32" alt="person__kanye.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png"></td>
-		<td><img height="32" width="32" alt="person__krying.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
-	</tr>
-	<tr>
-		<td>:daddy-elba:</td>
-		<td>:daddy-goldblum:</td>
-		<td>:kanye:</td>
-		<td>:krying:</td>
-	</tr>
-</table>
+<img height="32" width="32" alt="daddy-elba.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"> <img height="32" width="32" alt="daddy-goldblum.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"> <img height="32" width="32" alt="person__kanye.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png"> <img height="32" width="32" alt="person__krying.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png">
 
 ### Pride flags
-<table>
-	<tr>
-		<td><img alt="flag__ace-demi.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png"></td>
-		<td><img alt="flag__enby.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__enby.png"></td>
-		<td><img alt="flag__intersex.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__intersex.png"></td>
-		<td><img alt="flag__pan.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__pan.png"></td>
-		<td><img alt="flag__trans.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__trans.png"></td>  
-  </tr>
-  <tr>
-		<td>:flag_pride_ace-demi:</td>
-		<td>:flag_pride_enby:</td>
-		<td>:flag_pide_intersex:</td>
-		<td>:flag_pride_pan:</td>
-		<td>:flag_pride_trans:</td>
-  </tr>
-</table>
+<img alt="flag__ace-demi.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png"> <img alt="flag__enby.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__enby.png"> <img alt="flag__intersex.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__intersex.png"> <img alt="flag__pan.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__pan.png"> <img alt="flag__trans.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__trans.png">
 
 ### Rainbows
 <table>
@@ -158,19 +130,12 @@
 		<td><img alt="rainbow__bounce" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/rainbow__bounce.gif"></td>
 		<td><img alt="rainbow_sheep" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/rainbow__sheep.gif"></td>
   </tr>
-  <tr>
-		<td>:rainbow_bounce:</td>
-		<td>:rainbow_sheep:</td>
-  </tr>
 </table>
 
 ### Sex/NSFW
 <table>
 	<tr>
 		<td><img alt="daddy" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy.gif"></td>
-  </tr>
-  <tr>
-    <td>:daddy:</td>
   </tr>
 </table>
 
@@ -180,16 +145,10 @@
 		<td><img alt="symbol__100-420.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-420.png"></td>
 		<td><img alt="symbol__100-1000.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-1000.png"></td>
 		<td><img alt="symbol__100-zed.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-zed.png"></td>
+	</tr>
+	<tr>
 		<td><img alt="symbol__glittering.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
 		<td><img alt="symbol__heart_bi-sparkles.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__heart_bi-sparkles.png"></td>
 		<td><img alt="symbol__heart_goth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__heart_goth.png"></td>
-  </tr>
-  <tr>
-		<td>:420:</td>
-		<td>:1000:</td>
-		<td>:0:</td>
-		<td>:glittering:</td>
-		<td>:sparkling_heart_bisexual:</td>
-		<td>:heart_goth:</td>
   </tr>
 </table>
