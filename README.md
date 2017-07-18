@@ -2,14 +2,21 @@
 
 💬 Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! Visit [slackmojis.com](https://slackmojis.com/) for a whole bunch more. All image files are 128x128 or smaller.
 
-👉 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
+🗃 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
 ### Code
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__css.png"></td>
+		<td>:css:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__html5.png"></td>
+		<td>:html:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__sass.png"></td>
+		<td>:sass:</td>
   </tr>
 </table>
 
@@ -17,11 +24,27 @@
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__after-effects.png"></td>
+		<td>:after-effects:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__creative-cloud.png"></td>
+		<td>:creative-cloud:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__illustrator.png"></td>
+		<td>:illustrator:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__indesign.png"></td>
+		<td>:indesign:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__photoshop.png"></td>
+		<td>:photoshop:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__sketch.png"></td>
+		<td>:sketch:</td>
   </tr>
 </table>
 
@@ -33,7 +56,7 @@
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__crying_heart-eyes.png"></td>
-		<td>:sob_heart-eyes</td>
+		<td>:sob_heart-eyes:</td>
 	</tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__eyes-shifty.gif"></td>
 		<td>:eyes-shifty:</td>
@@ -55,7 +78,7 @@
 ### Fashion
 <table>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/fashion__supreme.jpg"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/fashion__supreme.png"></td>
 		<td>:supreme:</td>
   </tr>
 </table>
@@ -110,8 +133,8 @@
 		<td>:babe:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__cateye.png"></td>
-		<td>:cateye:</td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__blush.png"></td>
+		<td>:blusher:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png"></td>
@@ -122,16 +145,16 @@
 		<td>:brows:</td>
   </tr>
 	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__liquid-lipstick.png"></td>
+		<td>:liquid-lipstick:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__glowing.png"></td>
 		<td>:glowing:</td>
 	</tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__beauty-blender.png"></td>
 		<td>:beauty-blender:</td>
-  </tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__blush.png"></td>
-		<td>:blusher:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__compact-1.png"></td>
@@ -154,6 +177,10 @@
 		<td>:contour-palette:</td>
   </tr>
 	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__cateye.png"></td>
+		<td>:cateye:</td>
+  </tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__eye-palette.png"></td>
 		<td>:eye-palette:</td>
   </tr>
@@ -168,10 +195,6 @@
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__mascara.png"></td>
 		<td>:mascara:</td>
-  </tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__liquid-lipstick.png"></td>
-		<td>:liquid-lipstick:</td>
   </tr>
 </table>
 
