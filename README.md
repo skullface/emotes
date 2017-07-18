@@ -1,8 +1,10 @@
 # custom-chat-emoji
 
-💬 Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! Visit [slackmojis.com](https://slackmojis.com/) for a whole bunch more. All image files are 128x128 or smaller.
+💬 Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! Visit [slackmojis.com](https://slackmojis.com/) for a whole bunch more. All image files are 128x128 or smaller, most are transparent.
 
-🗃 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
+### 🗃 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
+
+---
 
 ### Code
 <table>
@@ -27,10 +29,6 @@
 		<td>:after-effects:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__creative-cloud.png"></td>
-		<td>:creative-cloud:</td>
-  </tr>
-	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__illustrator.png"></td>
 		<td>:illustrator:</td>
   </tr>
@@ -41,6 +39,10 @@
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__photoshop.png"></td>
 		<td>:photoshop:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__creative-cloud.png"></td>
+		<td>:creative-cloud:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__sketch.png"></td>
@@ -89,8 +91,13 @@
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__pogchamp.png"></td>
 		<td>:pogchamp:</td>
 	</tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon.png"></td>
 		<td>:splatoon:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-2.png"></td>
+		<td>:splatoon-2:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming_katamari-prince.gif"></td>
