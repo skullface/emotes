@@ -57,16 +57,27 @@
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__black.gif"></td>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__paw.gif"></td>
+		<td>:wave-1:</td>
+	</tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__white.gif"></td>
+		<td>:wave-2:</td>
   </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__paw.gif"></td>
+		<td>:wave-paw:</td>
+	</tr>
 </table>
 
 ### Kawaii
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kawaii__llama-cute.gif"></td>
+		<td>:llama-cute:</td>
+	</tr>
+	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kawaii__llama-yay.gif"></td>
+		<td>:llama-yay:</td>
   </tr>
 </table>
 
@@ -74,12 +85,9 @@
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__babe.png"></td>
-
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__cateye.png"></td>
-
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png"></td>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__brows.png"></td>
-
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__glowing.png"></td>
 	</tr>
 	<tr>
@@ -113,9 +121,6 @@
 	<tr>
 		<td><img alt="boom.gif" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/boom.gif"></td>
   </tr>
-	<tr>
-		<td>:boom:</td>
-	</tr>
 </table>
 
 ### People
