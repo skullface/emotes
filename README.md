@@ -103,6 +103,10 @@
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming_katamari-prince.gif"></td>
 		<td>:katamari:</td>
   </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__link.png"></td>
+		<td>:link-zelda:</td>
+  </tr>
 </table>
 
 ### Hands
@@ -144,12 +148,12 @@
 		<td>:blusher:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png"></td>
-		<td>:sisters-not-twins</td>
-  </tr>
-	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__brows.png"></td>
 		<td>:brows:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png"></td>
+		<td>:sisters-not-twins:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__liquid-lipstick.png"></td>
