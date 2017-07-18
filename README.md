@@ -43,38 +43,47 @@
 ![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kawaii__llama-yay.gif)
 
 ## Makeup & beauty
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__babe.png)
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__babe.png){:height="36px" width="36px"}
 
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__cateye.png)
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__cateye.png){:height="36px" width="36px"}
 
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__brows.png)
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__sisters-not-twins.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__brows.png){:height="36px" width="36px"}
 
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__glowing.png)
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__glowing.png){:height="36px" width="36px"}
 
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__beauty-blender.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__blush.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__compact-1.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__compact-2.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__concealer.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__foundation.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__contour-palette.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__eye-palette.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__falsies.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__lashes.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__mascara.png)
-![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__liquid-lipstick.png)
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__beauty-blender.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__blush.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__compact-1.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__compact-2.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__concealer.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__foundation.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__contour-palette.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__eye-palette.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__falsies.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__lashes.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__mascara.png){:height="36px" width="36px"}
+![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__liquid-lipstick.png){:height="36px" width="36px"}
 
 ## Other
 ![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/boom.gif)
 
 ## People
 
-| People |
-| --- | --- | --- | --- |
-| ![daddy-elba.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png) | ![daddy-goldblum.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png)
-| ![person__kanye.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png) | ![person__krying.png](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png) |
-| :daddy-elba: | :daddy-goldblum: | :kanye: | :krying: |
+<table>
+	<tr>
+		<td><img alt="daddy-elba.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"></td>
+		<td><img alt="daddy-goldblum.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"></td>
+		<td><img alt="person__kanye.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png"></td>
+		<td><img alt="person__krying.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
+	</tr>
+	<tr>
+		<td>:daddy-elba:</td>
+		<td>:daddy-goldblum:</td>
+		<td>:kanye:</td>
+		<td>:krying:</td>
+	</tr>
+</table>
 
 ## Pride flags
 ![](https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png)
