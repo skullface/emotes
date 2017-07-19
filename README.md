@@ -10,6 +10,23 @@
 
 ---
 
+## Table of Contents
+* Code
+* Design
+* Faces
+* Fashion
+* Gaming
+* Hands
+* Kawaii
+* Makeup and beauty
+* Other
+* People
+* Rainbows
+* Sex/NSFW
+* Symbols
+
+---
+
 ### Code
 <table>
 	<tr>
@@ -29,7 +46,7 @@
 		<td>:code-brackets:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__terminal.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__terminal.gif"></td>
 		<td>:terminal:</td>
   </tr>
 </table>
