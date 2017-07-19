@@ -1,8 +1,12 @@
 # custom-chat-emoji
 
-💬 Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! Visit [slackmojis.com](https://slackmojis.com/) for a whole bunch more. All image files are 128x128 or smaller, most are transparent.
+💬 Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! All image files are 128x128 or smaller, most are transparent.
 
-### 🗃 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
+### 🔎 More downloads
+[Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
+[Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
+
+### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
 ---
 
@@ -19,6 +23,14 @@
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__sass.png"></td>
 		<td>:sass:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__brackets.png"></td>
+		<td>:code-brackets:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/code__terminal.png"></td>
+		<td>:terminal:</td>
   </tr>
 </table>
 
@@ -306,5 +318,9 @@
   <tr>
 		<td><img alt="symbol__heart_goth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__heart_goth.png"></td>
 		<td>:heart_goth:</td>
+  </tr>
+  <tr>
+		<td><img alt="symbol__heart_goth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
+		<td>:ohio:</td>
   </tr>
 </table>
