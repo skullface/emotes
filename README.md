@@ -5,6 +5,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 *For more:*
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
 * [Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
+* [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/pack-Neko Atsume)‼️, available for automatic import thanks to some smart engineering!
 
 ### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
@@ -348,18 +349,38 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 <table>
 	<tr>
 		<td><img alt="got__targaryen.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__targaryen.png"></td>
-	   <td>:got_targaryen:</td>
+	   <td>:house_targaryen:</td>
   </tr>
 	<tr>
-		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark-1.png"></td>
-	   <td>:got_stark:</td>
+		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark.png"></td>
+	   <td>:house_stark:</td>
   </tr>
 	<tr>
-		<td><img alt="got__targaryen.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
-	   <td>:got_lannister:</td>
+		<td><img alt="got__lannister.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
+	   <td>:house_lannister:</td>
   </tr>
 	<tr>
-		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark-2.png"></td>
-	   <td>:got_stark:</td>
+		<td><img alt="got__greyjoy.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
+	   <td>:house_greyjoy:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got_tyrell.png"></td>
+	   <td>:house_tyrell:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
+	   <td>:house_baratheon:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__arryn.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
+	   <td>:house_vale:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__sunspear.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__sunspear.png"></td>
+	   <td>:house_dorne:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__nights-watch.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__nights-watch.png"></td>
+	   <td>:house_nightswatch:</td>
   </tr>
 </table>
