@@ -2,13 +2,11 @@
 
 Custom emotes for Slack, Discord, whatever else exists in the future. All image files are 128x128 or smaller and transparent. I either drew or cropped these myself. Please link back here if someone asks where to find them to share the emoji love!
 
-If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete!
-
 *For more:*
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
 * [Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
-* [Digital Oxford’s collection](https://github.com/omgmog/digitaloxford-slack-emojis) — actually over 1000 of them
-* [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/pack-Neko Atsume)‼️, available for automatic import thanks to some smart engineering!
+* [Digital Oxford’s collection](https://github.com/omgmog/digitaloxford-slack-emojis) — actually over 1000 of them. so many. just so many
+* [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/pack-Neko Atsume) ‼️, available for automatic import thanks to some smart engineering!
 
 ### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
