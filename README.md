@@ -1,6 +1,6 @@
 # custom-chat-emoji
 
-Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself, some I stole. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! All image files are 128x128 or smaller, most are transparent.
+Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! All image files are 128x128 or smaller, most are transparent.
 
 *For more:*
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
@@ -84,19 +84,8 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### Faces
 <table>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__crying_blood_glasses.gif"></td>
-		<td>:sob_blood_glasses:</td>
-  </tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__crying_heart-eyes.png"></td>
-		<td>:sob_heart-eyes:</td>
-	</tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__eyes-shifty.gif"></td>
 		<td>:eyes-shifty:</td>
-  </tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__somanyemotions.gif"></td>
-		<td>:somanyemotions</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/face__thinking-flipped.png"></td>
@@ -128,7 +117,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-2.png"></td>
-		<td>:splatoon-2:</td>
+		<td>:splatoon-squid:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-2.png"></td>
+		<td>:splatoon-arrow:</td>
   </tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming_katamari-prince.gif"></td>
@@ -143,30 +136,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### Hands
 <table>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__black.gif"></td>
-		<td>:wave-1:</td>
-	</tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__white.gif"></td>
-		<td>:wave-2:</td>
-  </tr>
-	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/wave__paw.gif"></td>
 		<td>:wave-paw:</td>
 	</tr>
 </table>
 
-### Kawaii
-<table>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kawaii__llama-cute.gif"></td>
-		<td>:llama-cute:</td>
-	</tr>
-	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kawaii__llama-yay.gif"></td>
-		<td>:llama-yay:</td>
-  </tr>
-</table>
 
 ### Makeup &amp; beauty
 <table>
@@ -240,14 +214,6 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
   </tr>
 </table>
 
-### Other
-<table>
-	<tr>
-		<td><img alt="boom.gif" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/boom.gif"></td>
-		<td>:boom-gif:</td>
-	</tr>
-</table>
-
 ### People
 <table>
 	<tr>
@@ -292,18 +258,6 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
   </tr>
 </table>
 
-### Rainbows
-<table>
-	<tr>
-		<td><img alt="rainbow__bounce" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/rainbow__bounce.gif"></td>
-			<td>:rainbow_bounce:</td>
-	</tr>
-	<tr>
-		<td><img alt="rainbow_sheep" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/rainbow__sheep.gif"></td>
-		<td>:rainbow_sheep:</td>
-  </tr>
-</table>
-
 ### Sex/NSFW
 <table>
 	<tr>
@@ -331,15 +285,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 		<td>:glittering:</td>
 	</tr>
   <tr>
-		<td><img alt="symbol__heart_bi-sparkles.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__heart_bi-sparkles.png"></td>
-		<td>:sparkling_heart_bisexual:</td>
-	</tr>
-  <tr>
-		<td><img alt="symbol__heart_goth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__heart_goth.png"></td>
-		<td>:heart_goth:</td>
-  </tr>
-  <tr>
-		<td><img alt="symbol__heart_goth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
+		<td><img alt="symbol__ohio.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
 		<td>:ohio:</td>
   </tr>
 </table>
@@ -348,25 +294,10 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### TV: Game of Thrones
 <table>
 	<tr>
-		<td><img alt="got__targaryen.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__targaryen.png"></td>
-	   <td>:house_targaryen:</td>
+		<td><img alt="got__arryn.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
+	   <td>:house_arryn:</td>
   </tr>
 	<tr>
-		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark.png"></td>
-	   <td>:house_stark:</td>
-  </tr>
-	<tr>
-		<td><img alt="got__lannister.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
-	   <td>:house_lannister:</td>
-  </tr>
-	<tr>
-		<td><img alt="got__greyjoy.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
-	   <td>:house_greyjoy:</td>
-  </tr>
-	<tr>
-		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tyrell.png"></td>
-	   <td>:house_tyrell:</td>
-  </tr>
 	<tr>
 		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
 	   <td>:house_baratheon-robert:</td>
@@ -376,16 +307,16 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	   <td>:house_baratheon-stannis:</td>
   </tr>
 	<tr>
-		<td><img alt="got__tully.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tully.png"></td>
-	   <td>:house_tully:</td>
+		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
+	   <td>:house_baratheon-renly:</td>
   </tr>
 	<tr>
-		<td><img alt="got__arryn.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
-	   <td>:house_vale:</td>
+		<td><img alt="got__greyjoy.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
+	   <td>:house_greyjoy:</td>
   </tr>
 	<tr>
-		<td><img alt="got__tarth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tarth.png"></td>
-	   <td>:house_tarth:</td>
+		<td><img alt="got__lannister.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
+	   <td>:house_lannister:</td>
   </tr>
 	<tr>
 		<td><img alt="got__sunspear.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__sunspear.png"></td>
@@ -398,5 +329,25 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	<tr>
 		<td><img alt="got__nights-watch.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__nights-watch.png"></td>
 	   <td>:house_nightswatch:</td>
+	</tr>
+	<tr>
+		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark.png"></td>
+	   <td>:house_stark:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__targaryen.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__targaryen.png"></td>
+	   <td>:house_targaryen:</td>
+  </tr>
+  </tr>
+		<td><img alt="got__tarth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tarth.png"></td>
+	   <td>:house_tarth:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__tully.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tully.png"></td>
+	   <td>:house_tully:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tyrell.png"></td>
+	   <td>:house_tyrell:</td>
   </tr>
 </table>
