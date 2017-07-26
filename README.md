@@ -1,10 +1,13 @@
 # custom-chat-emoji
 
-Custom emotes for Slack, Discord, whatever else exists in the future. Some I drew myself, some I cropped myself. If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete! All image files are 128x128 or smaller, most are transparent.
+Custom emotes for Slack, Discord, whatever else exists in the future. All image files are 128x128 or smaller and transparent. I either drew or cropped these myself. Please link back here if someone asks where to find them to share the emoji love!
+
+If you own any of these emoji or their likeness and want them removed, please open an issue/PR or send me an email and I’ll swiftly delete!
 
 *For more:*
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
 * [Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
+* [Digital Oxford’s collection](https://github.com/omgmog/digitaloxford-slack-emojis) — actually over 1000 of them
 * [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/pack-Neko Atsume)‼️, available for automatic import thanks to some smart engineering!
 
 ### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
@@ -20,6 +23,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 * Hands
 * Kawaii
 * Makeup and beauty
+* Memes
 * Other
 * People
 * Rainbows
@@ -124,10 +128,6 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 		<td>:splatoon-arrow:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming_katamari-prince.gif"></td>
-		<td>:katamari:</td>
-  </tr>
-	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__link.png"></td>
 		<td>:link-zelda:</td>
   </tr>
@@ -214,22 +214,34 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
   </tr>
 </table>
 
+### Memes
+<table>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/meme__crying-jordan.png"></td>
+		<td>:crying-jordan:</td>
+	</tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/meme__roll-safe.png"></td>
+		<td>:roll-safe:</td>
+	</tr>
+</table>
+
 ### People
 <table>
 	<tr>
-		<td><img height="32" width="32" alt="daddy-elba.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"></td>
 		<td>:daddy-elba:</td>
 	</tr>
 	<tr>
-		<td><img height="32" width="32" alt="daddy-goldblum.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"></td>
 		<td>:daddy-goldblum:</td>
 	</tr>
 	<tr>
-		<td><img height="32" width="32" alt="person__kanye.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png"></td>
+		<td><img height="32" width="32"  src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__kanye.png"></td>
 		<td>:kanye:</td>
 	</tr>
 	<tr>
-		<td><img height="32" width="32" alt="person__krying.png" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
+		<td><img height="32" width="32"  src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
 		<td>:krying:</td>
 	</tr>
 </table>
@@ -237,23 +249,23 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### Pride flags [by Bry Crash via Bustle](https://www.bustle.com/articles/168743-the-lgbtq-pride-emoji-doesnt-exist-so-i-decided-to-create-some)
 <table>
 	<tr>
-		<td><img alt="flag__ace-demi.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png"></td>
 		<td>:flag_pride_ace-demi:</td>
 	</tr>
 	<tr>
-		<td><img alt="flag__enby.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__enby.png"></td>		
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__enby.png"></td>		
 		<td>:flag_pride_enby:</td>
 	</tr>
 	<tr>
-		<td><img alt="flag__intersex.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__intersex.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__intersex.png"></td>
 		<td>:flag_pide_intersex:</td>
 	</tr>
 	<tr>
-		<td><img alt="flag__pan.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__pan.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__pan.png"></td>
 		<td>:flag_pride_pan:</td>
 	</tr>
 	<tr>
-		<td><img alt="flag__trans.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__trans.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__trans.png"></td>
 		<td>:flag_pride_trans:</td>
   </tr>
 </table>
@@ -261,7 +273,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### Sex/NSFW
 <table>
 	<tr>
-		<td><img alt="daddy" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy.gif"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy.gif"></td>
 	   <td>:daddy:</td>
   </tr>
 </table>
@@ -269,23 +281,23 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### Symbols
 <table>
 	<tr>
-		<td><img alt="symbol__100-420.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-420.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-420.png"></td>
 		<td>:420:</td>
 	</tr>
   <tr>
-		<td><img alt="symbol__100-1000.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-1000.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-1000.png"></td>
 		<td>:1000:</td>
 	</tr>
   <tr>
-		<td><img alt="symbol__100-zed.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-zed.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-zed.png"></td>
 		<td>:0:</td>
 	</tr>
   <tr>
-		<td><img alt="symbol__glittering.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
 		<td>:glittering:</td>
 	</tr>
   <tr>
-		<td><img alt="symbol__ohio.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
 		<td>:ohio:</td>
   </tr>
 </table>
@@ -294,16 +306,16 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 ### TV: Game of Thrones
 <table>
 	<tr>
-		<td><img alt="got__arryn.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
 	   <td>:house_arryn:</td>
   </tr>
 	<tr>
 	<tr>
-		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
 	   <td>:house_baratheon-robert:</td>
   </tr>
 	<tr>
-		<td><img alt="got__stannis.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stannis.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stannis.png"></td>
 	   <td>:house_baratheon-stannis:</td>
   </tr>
 	<tr>
@@ -311,11 +323,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	   <td>:house_baratheon-renly:</td>
   </tr>
 	<tr>
-		<td><img alt="got__greyjoy.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
 	   <td>:house_greyjoy:</td>
   </tr>
 	<tr>
-		<td><img alt="got__lannister.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__lannister.png"></td>
 	   <td>:house_lannister:</td>
   </tr>
 	<tr>
@@ -323,31 +335,31 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	   <td>:house_martell:</td>
   </tr>
 	<tr>
-		<td><img alt="got__mormont.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__mormont.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__mormont.png"></td>
 	   <td>:house_mormont:</td>
   </tr>
 	<tr>
-		<td><img alt="got__nights-watch.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__nights-watch.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__nights-watch.png"></td>
 	   <td>:house_nightswatch:</td>
 	</tr>
 	<tr>
-		<td><img alt="got__stark.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stark.png"></td>
 	   <td>:house_stark:</td>
   </tr>
 	<tr>
-		<td><img alt="got__targaryen.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__targaryen.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__targaryen.png"></td>
 	   <td>:house_targaryen:</td>
   </tr>
   </tr>
-		<td><img alt="got__tarth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tarth.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tarth.png"></td>
 	   <td>:house_tarth:</td>
   </tr>
 	<tr>
-		<td><img alt="got__tully.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tully.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tully.png"></td>
 	   <td>:house_tully:</td>
   </tr>
 	<tr>
-		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tyrell.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tyrell.png"></td>
 	   <td>:house_tyrell:</td>
   </tr>
 </table>
