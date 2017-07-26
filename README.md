@@ -116,11 +116,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 		<td>:splatoon:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-2.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-squid.png"></td>
 		<td>:splatoon-squid:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-2.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__splatoon-arrow.png"></td>
 		<td>:splatoon-arrow:</td>
   </tr>
 	<tr>
@@ -234,7 +234,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	</tr>
 </table>
 
-### Pride flags
+### Pride flags [by Bry Crash via Bustle](https://www.bustle.com/articles/168743-the-lgbtq-pride-emoji-doesnt-exist-so-i-decided-to-create-some)
 <table>
 	<tr>
 		<td><img alt="flag__ace-demi.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/flag__ace-demi.png"></td>
@@ -307,7 +307,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	   <td>:house_baratheon-stannis:</td>
   </tr>
 	<tr>
-		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
+		<td><img alt="got__renly.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__renly.png"></td>
 	   <td>:house_baratheon-renly:</td>
   </tr>
 	<tr>
