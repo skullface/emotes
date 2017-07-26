@@ -364,20 +364,36 @@ Custom emotes for Slack, Discord, whatever else exists in the future. Some I dre
 	   <td>:house_greyjoy:</td>
   </tr>
 	<tr>
-		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got_tyrell.png"></td>
+		<td><img alt="got__tyrell.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tyrell.png"></td>
 	   <td>:house_tyrell:</td>
   </tr>
 	<tr>
-		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__greyjoy.png"></td>
-	   <td>:house_baratheon:</td>
+		<td><img alt="got__baratheon.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon.png"></td>
+	   <td>:house_baratheon-robert:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__stannis.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stannis.png"></td>
+	   <td>:house_baratheon-stannis:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__tully.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tully.png"></td>
+	   <td>:house_tully:</td>
   </tr>
 	<tr>
 		<td><img alt="got__arryn.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__arryn.png"></td>
 	   <td>:house_vale:</td>
   </tr>
 	<tr>
+		<td><img alt="got__tarth.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__tarth.png"></td>
+	   <td>:house_tarth:</td>
+  </tr>
+	<tr>
 		<td><img alt="got__sunspear.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__sunspear.png"></td>
-	   <td>:house_dorne:</td>
+	   <td>:house_martell:</td>
+  </tr>
+	<tr>
+		<td><img alt="got__mormont.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__mormont.png"></td>
+	   <td>:house_mormont:</td>
   </tr>
 	<tr>
 		<td><img alt="got__nights-watch.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__nights-watch.png"></td>
