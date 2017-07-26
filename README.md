@@ -6,7 +6,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
 * [Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
 * [Digital Oxford’s collection](https://github.com/omgmog/digitaloxford-slack-emojis) — actually over 1000 of them. so many. just so many
-* [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/pack-Neko Atsume) ‼️, available for automatic import thanks to some smart engineering!
+* [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/#pack-Neko%20Atsume)‼️, available for automatic import thanks to some smart engineering!
 
 ### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
