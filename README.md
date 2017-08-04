@@ -3,31 +3,31 @@
 Custom emotes for Slack, Discord, whatever else exists in the future. All image files are 128x128 or smaller and transparent. I either drew or cropped these myself. Please link back here if someone asks where to find them to share the emoji love!
 
 *For more:*
+* [Mojician](https://mojician.com/) — searchable!!! directory!!! ⭐️⭐️⭐️⭐️⭐️ made by [@willman](https://twitter.com/willmanduffy)
 * [Moremoji](http://moremoji.allezsoyez.com/) — gorgeous new expressions and mashups in the Twemoji style
 * [Slackmojis](https://slackmojis.com/) — like five zillion 'moj friends
 * [Digital Oxford’s collection](https://github.com/omgmog/digitaloxford-slack-emojis) — actually over 1000 of them. so many. just so many
 * [Emojipacks](https://emojipacks.com/) — a few ”packs” of emoji from existing graphics, including [Neko Atsume](https://emojipacks.com/#pack-Neko%20Atsume)‼️, available for automatic import thanks to some smart engineering!
 
-### [🗃 Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
+### 🗃 [Download all files at once!](https://github.com/skullface/custom-chat-emoji/archive/master.zip)
 
 ---
 
 ## Table of Contents
-* Code
-* Design
-* Faces
-* Fashion
-* Gaming
-* Hands
-* Kawaii
-* Makeup and beauty
-* Memes
-* Other
-* People
-* Rainbows
-* Sex/NSFW
-* Symbols
-* TV: Game of Thrones
+* [Code](#code)
+* [Design](#design)
+* [Faces](#faces)
+* [Fashion](#fashion)
+* [Gaming](#gaming)
+* [Hands](#hands)
+* [Makeup and beauty](#makeup-and-beauty)
+* [Memes](#memes)
+* [Other](#other)
+* [People](#people)
+* [Pride flags](#pride-flags-by-bry-crash-via-bustle)
+* [Sex/NSFW](#sexnsfw)
+* [Symbols](#symbols)
+* [TV: Game of Thrones](#tv-game-of-thrones)
 
 ---
 
@@ -80,6 +80,14 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__sketch.png"></td>
 		<td>:sketch:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__ui.png"></td>
+		<td>:ui:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/design__ux.png"></td>
+		<td>:ux:</td>
   </tr>
 </table>
 
@@ -140,7 +148,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 </table>
 
 
-### Makeup &amp; beauty
+### Makeup and beauty
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/makeup__babe.png"></td>
@@ -317,7 +325,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	   <td>:house_baratheon-stannis:</td>
   </tr>
 	<tr>
-		<td><img alt="got__renly.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__renly.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__renly.png"></td>
 	   <td>:house_baratheon-renly:</td>
   </tr>
 	<tr>
@@ -329,7 +337,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	   <td>:house_lannister:</td>
   </tr>
 	<tr>
-		<td><img alt="got__sunspear.png" height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__sunspear.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__martell.png"></td>
 	   <td>:house_martell:</td>
   </tr>
 	<tr>
