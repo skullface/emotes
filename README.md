@@ -24,6 +24,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 * [Memes](#memes)
 * [Other](#other)
 * [People](#people)
+* [Places](#places)
 * [Pride flags](#pride-flags-by-bry-crash-via-bustle)
 * [Sex/NSFW](#sexnsfw)
 * [Symbols](#symbols)
@@ -235,11 +236,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 ### People
 <table>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-elba.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__daddy-elba.png"></td>
 		<td>:daddy-elba:</td>
 	</tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy-goldblum.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__daddy-goldblum.png"></td>
 		<td>:daddy-goldblum:</td>
 	</tr>
 	<tr>
@@ -250,6 +251,14 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 		<td><img height="32" width="32"  src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
 		<td>:krying:</td>
 	</tr>
+</table>
+
+### Places
+<table>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/place__ohio.png"></td>
+    <td>:ohio:</td>
+  </tr>
 </table>
 
 ### Pride flags [by Bry Crash via Bustle](https://www.bustle.com/articles/168743-the-lgbtq-pride-emoji-doesnt-exist-so-i-decided-to-create-some)
@@ -279,7 +288,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 ### Sex/NSFW
 <table>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/daddy.gif"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/sex__daddy.gif"></td>
 	   <td>:daddy:</td>
   </tr>
 </table>
@@ -302,10 +311,6 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
 		<td>:glittering:</td>
 	</tr>
-  <tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__ohio.png"></td>
-		<td>:ohio:</td>
-  </tr>
 </table>
 
 
@@ -321,11 +326,11 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	   <td>:house_baratheon-robert:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__stannis.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon-stannis.png"></td>
 	   <td>:house_baratheon-stannis:</td>
   </tr>
 	<tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__renly.png"></td>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/got__baratheon-renly.png"></td>
 	   <td>:house_baratheon-renly:</td>
   </tr>
 	<tr>
