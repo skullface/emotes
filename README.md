@@ -18,6 +18,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 * [Design](#design)
 * [Faces](#faces)
 * [Fashion](#fashion)
+* [Food](#food)
 * [Gaming](#gaming)
 * [Hands](#hands)
 * [Makeup and beauty](#makeup-and-beauty)
@@ -113,6 +114,34 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/fashion__supreme.png"></td>
 		<td>:supreme:</td>
+  </tr>
+</table>
+
+### Food
+<table>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-jelly-filled.png"></td>
+		<td>:donut_jelly-filled:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-cruller.png"></td>
+		<td>:donut_cruller:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-glazed.png"></td>
+		<td>:donut_glazed:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-iced-chocolate.png"></td>
+		<td>:donut_iced-chocolate:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-cute.png"></td>
+		<td>:donut_cute:</td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut-strawberry.png"></td>
+		<td>:donut_strawberry:</td>
   </tr>
 </table>
 
