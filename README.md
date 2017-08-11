@@ -143,6 +143,10 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut_strawberry.png"></td>
 		<td>:donut_strawberry:</td>
   </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/food__donut_chocolate.png"></td>
+		<td>:donut_chocolate:</td>
+  </tr>
 </table>
 
 ### Gaming
