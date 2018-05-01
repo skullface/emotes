@@ -21,6 +21,7 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 * [Food](#food)
 * [Gaming](#gaming)
 * [Hands](#hands)
+* [K-pop](#k-pop)
 * [Makeup and beauty](#makeup-and-beauty)
 * [Memes](#memes)
 * [Other](#other)
@@ -28,7 +29,9 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 * [Places](#places)
 * [Pride flags](#pride-flags-by-bry-crash-via-bustle)
 * [Sex/NSFW](#sexnsfw)
-* [Symbols](#symbols)
+* [Symbols (universal)](#symbols)
+* [Symbols (Apple)](#symbols)
+* [Symbols (Twemoji/Discord)](#symbols)
 * [TV: Game of Thrones](#tv-game-of-thrones)
 
 ---
@@ -181,6 +184,110 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 	</tr>
 </table>
 
+### K-pop
+<table>
+  <tr>
+    <td>✨</td>
+    <td><strong>OT#</strong></td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__ot5.png"></td>
+    <td>:ot5:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__ot6.png"></td>
+    <td>:ot6:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__ot9.png"></td>
+    <td>:ot9:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__ot12.png"></td>
+    <td>:ot12:</td>
+  </tr>
+  <tr>
+    <td>✨</td>
+    <td><strong>IDLE</strong></td>
+  </tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__idle__minniegasp.png"></td>
+		<td>:minniegasp:</td>
+	</tr>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__idle__shuhuathumbsup.png"></td>
+		<td>:shuhuathumbsup:</td>
+	</tr>
+  <tr>
+    <td>✨</td>
+    <td><strong>LOONA</strong></td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuucreep.gif"></td>
+    <td>:chuucreep:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__feedchuu.png"></td>
+    <td>:feedchuu:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__sailoreden.png"></td>
+    <td>:sailoreden:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuuves-ilikethatkindofeyes.jpg"></td>
+    <td>:ilikethatkindofeyes:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuuves.png"></td>
+    <td>:chuuves:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuuves-poke.png"></td>
+    <td>:chuuvespoke:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuuves-v.png"></td>
+    <td>:chuuvesv:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__chuuves-applehug.png"></td>
+    <td>:applehug:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__gowonlipbite.png"></td>
+    <td>:gowonlipbite:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__gowonrollsafe.png"></td>
+    <td>:gowonrollsafe:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__lipowo.png"></td>
+    <td>:lipowo:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__soulsquish.png"></td>
+    <td>:soulsquish:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__vividisgust1.gif"></td>
+    <td>:vividisgust1:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__vividisgust2.gif"></td>
+    <td>:vividisgust2:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__vividisgust3.gif"></td>
+    <td>:vividisgust3:</td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/kpop__loona__yvessmirk.jpg"></td>
+    <td>:yvessmirk:</td>
+  </tr>
+</table>
+
 
 ### Makeup and beauty
 <table>
@@ -284,6 +391,10 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 		<td><img height="32" width="32"  src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__krying.png"></td>
 		<td>:krying:</td>
 	</tr>
+  <tr>
+    <td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/person__birdman.gif"></td>
+    <td>:birdmanhandrub:</td>
+  </tr>
 </table>
 
 ### Places
@@ -326,7 +437,15 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
   </tr>
 </table>
 
-### Symbols
+### Symbols (universal)
+<table>
+  <tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
+		<td>:glittering:</td>
+	</tr>
+</table>
+
+### Symbols (OSX)
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-420.png"></td>
@@ -340,12 +459,23 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-zed.png"></td>
 		<td>:0:</td>
 	</tr>
-  <tr>
-		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__glittering.gif"></td>
-		<td>:glittering:</td>
-	</tr>
 </table>
 
+### Symbols (Twemoji/Discord)
+<table>
+	<tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-420--twemoji.png"></td>
+		<td>:420:</td>
+	</tr>
+  <tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-1000--twemoji.png"></td>
+		<td>:1000:</td>
+	</tr>
+  <tr>
+		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/symbol__100-zed--twemoji.png"></td>
+		<td>:0:</td>
+	</tr>
+</table>
 
 ### TV: Game of Thrones
 <table>
