@@ -156,19 +156,19 @@ Custom emotes for Slack, Discord, whatever else exists in the future. All image 
 <table>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__baba-baba.gif"></td>
-		<td>:baba-baba:</td>
+		<td>:baba:</td>
 	</tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__baba-is.gif"></td>
-		<td>:baba-is:</td>
+		<td>:is:</td>
 	</tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__baba-you.gif"></td>
-		<td>:baba-you:</td>
+		<td>:you:</td>
 	</tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__baba-blank.gif"></td>
-		<td>:baba-blank:</td>
+		<td>:black:</td>
 	</tr>
 	<tr>
 		<td><img height="32" width="32" src="https://github.com/skullface/custom-chat-emoji/blob/master/emoji/gaming__pogchamp.png"></td>
